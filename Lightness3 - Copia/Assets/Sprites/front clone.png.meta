@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 052489ad35d00494e9453a6a0d41134f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5568889391150325334
+    second: front clone_0
+  - first:
+      213: -7839695328676884993
+    second: front clone_1
+  - first:
+      213: -6353588451038489074
+    second: front clone_2
+  - first:
+      213: -8119714024098422235
+    second: front clone_3
+  - first:
+      213: 3927390158293910298
+    second: front clone_4
+  - first:
+      213: -3303785701624144999
+    second: front clone_5
+  - first:
+      213: 3874811483542890525
+    second: front clone_6
+  - first:
+      213: -225152705302133242
+    second: front clone_7
+  - first:
+      213: -6234173732644881754
+    second: front clone_8
+  - first:
+      213: -2146527281194884368
+    second: front clone_9
+  - first:
+      213: 1516264927627480349
+    second: front clone_10
+  - first:
+      213: 5678884000565074109
+    second: front clone_11
+  - first:
+      213: -6083409713572441429
+    second: front clone_12
+  - first:
+      213: 6854262803168377737
+    second: front clone_13
+  - first:
+      213: 2460745479335426591
+    second: front clone_14
+  - first:
+      213: 7299999995760061130
+    second: front clone_15
+  - first:
+      213: -6000436789534913673
+    second: front clone_16
+  - first:
+      213: 1995956310370536671
+    second: front clone_17
+  - first:
+      213: 8109216840197449686
+    second: front clone_18
+  - first:
+      213: -2227092296739795474
+    second: front clone_19
+  - first:
+      213: 4128458534714776617
+    second: front clone_20
+  - first:
+      213: -2985670880988508570
+    second: front clone_21
+  - first:
+      213: 3073540577590682395
+    second: front clone_22
+  - first:
+      213: -4628107877558071672
+    second: front clone_23
+  - first:
+      213: -3758215722402689099
+    second: front clone_24
+  - first:
+      213: -4702857223448882359
+    second: front clone_25
+  - first:
+      213: -5470129561815419232
+    second: front clone_26
+  - first:
+      213: -2999997388781080466
+    second: front clone_27
+  - first:
+      213: -3679331246666266301
+    second: front clone_28
+  - first:
+      213: -3527456754362101627
+    second: front clone_29
+  - first:
+      213: 2579233367338887344
+    second: front clone_30
+  - first:
+      213: 3055039336358689618
+    second: front clone_31
+  - first:
+      213: -4293390289338675472
+    second: front clone_32
+  - first:
+      213: -6154245050791863891
+    second: front clone_33
+  - first:
+      213: -2118301143753988945
+    second: front clone_34
+  - first:
+      213: 8997135772642832401
+    second: front clone_35
+  - first:
+      213: -2331848956888207478
+    second: front clone_36
+  - first:
+      213: -2428526936820035355
+    second: front clone_37
+  - first:
+      213: -1972110272561882730
+    second: front clone_38
+  - first:
+      213: 7361704552944907977
+    second: front clone_39
+  - first:
+      213: 9009322948107559549
+    second: front clone_40
+  - first:
+      213: -8372324891794572326
+    second: front clone_41
+  - first:
+      213: 3062926680523947462
+    second: front clone_42
+  - first:
+      213: -6150473644884445459
+    second: front clone_43
+  - first:
+      213: 8181834965915696375
+    second: front clone_44
+  - first:
+      213: 3066910775198176520
+    second: front clone_45
+  - first:
+      213: 3607198854631191439
+    second: front clone_46
+  - first:
+      213: -2927253989488929271
+    second: front clone_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: front clone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 151
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa12b0f9a9457b2b0800000000000000
+      internalID: -5568889391150325334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
